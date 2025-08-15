@@ -1,3 +1,3 @@
 Proposition:
 
-Aliens can win if and only if there are a maximum of two generations able to reproduce.
+Aliens can only win if there are not more than two generations able to reproduce.
